@@ -1,4 +1,5 @@
 # Digital Health for India #
+Open Access documents from the DHIA group
 
 ## DHIA group attributable repo ##
 
@@ -7,7 +8,7 @@
 (Please follow the links to edit)
 
 #### Physicians roles and interactions in the medical process ####
-1. [History taking](https://github.com/digihealthindia/DHIA-docs/edit/master/history-taking.md)
+1. History taking [view] [edit]
 
 
 
@@ -17,9 +18,8 @@
 
 
 
-Open Access documents from the DHIA group
+-------------------------
 
-# DHIA
 All documents under this organization shall only be created as open access under Creative Commons Licence with Share-Alike attribution. Copyright is shared by individual authors for the portion of their contribution and shared over the document in its entirety.
 
 All code shared under this repo shall be under GPL v2 only.
