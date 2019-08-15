@@ -9,10 +9,15 @@ Please type below this line
 # History taking in the clinical process #
 
 Dummy text - replace with actual discussion items
+
 Dummy text - replace with actual discussion items
+
 Dummy text - replace with actual discussion items
+
 Dummy text - replace with actual discussion items
+
 Dummy text - replace with actual discussion items
+
 Dummy text - replace with actual discussion items
 
 
