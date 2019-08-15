@@ -9,7 +9,7 @@ Open Access documents from the DHIA group
 
 #### Physicians roles and interactions in the medical process ####
 1. History taking 
-[view](https://github.com/digihealthindia/digihealthindia.github.io/blob/master/history-taking.md)
+[view](https://digihealthindia.github.io/history-taking)
 [edit](https://github.com/digihealthindia/digihealthindia.github.io/edit/master/history-taking.md)
 
 
